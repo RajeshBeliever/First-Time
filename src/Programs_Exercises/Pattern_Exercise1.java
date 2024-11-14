@@ -50,6 +50,14 @@ public class Pattern_Exercise1 {
 			}
 			System.out.println(" ");
 		}
+		
+		System.out.println("*************************asds*******************");
+		System.out.println("*************************asds*******************");
+		System.out.println("*************************asds*******************");
+		System.out.println("*************************asds*******************");
+		System.out.println("*************************asds*******************");
+		System.out.println("*************************asds*******************");
+		
 	}
 	
 		
